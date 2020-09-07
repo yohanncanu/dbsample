@@ -1,0 +1,139 @@
+{
+    "per_page": 200,
+    "current_page": 1,
+    "total_pages": 1,
+    "current_count": 2,
+    "total_count": 2,
+    "submissions": [
+        {
+            "form": {
+                "id": 11552,
+                "name": "pizza_questionnaire",
+                "version": "1.13"
+            },
+            "metadata": {
+                "device_id": {
+                    "value": "Android_8f90b06e-685a-4adc-92b4-bf98b9d20a75",
+                    "type": "string"
+                },
+                "user_id": {
+                    "value": null,
+                    "type": "string"
+                },
+                "username": {
+                    "value": "Yohann CANU",
+                    "type": "string"
+                },
+                "submitted_at": {
+                    "value": "2020-09-04 14:28:59 +02:00",
+                    "type": "datetime"
+                },
+                "received_at": {
+                    "value": "2020-09-04 12:28:59 +00:00",
+                    "type": "datetime"
+                },
+                "submission_id": {
+                    "value": "971133",
+                    "type": "integer"
+                },
+                "device_submission_identifier": {
+                    "value": "2a16ad45-d5f5-49d0-b644-5ff3c5fa019c",
+                    "type": "string"
+                },
+                "submission_counter": {
+                    "value": "1"
+                },
+                "form_name": {
+                    "value": "pizza_questionnaire"
+                },
+                "form_namespace": {
+                    "value": "http://www.devicemagic.com/xforms/5006d7d0-d0d2-0138-8a01-0242ac120006?0ccb7670-d0d8-0138-8a01-0242ac120006"
+                },
+                "form_version": {
+                    "value": "1.01"
+                }
+            },
+            "submission": {
+                "likes_pizza": {
+                    "value": "yes",
+                    "type": "boolean"
+                },
+                "pizza_toppings": {
+                    "value": "cheese",
+                    "type": "select"
+                },
+                "favorite_topping": {
+                    "value": "other",
+                    "type": "select"
+                },
+                "favorite_topping_other": {
+                    "value": "test",
+                    "type": "text"
+                }
+            }
+        },
+        {
+            "form": {
+                "id": 11552,
+                "name": "pizza_questionnaire",
+                "version": "1.14"
+            },
+            "metadata": {
+                "device_id": {
+                    "value": "Android_8f90b06e-685a-4adc-92b4-bf98b9d20a75",
+                    "type": "string"
+                },
+                "user_id": {
+                    "value": null,
+                    "type": "string"
+                },
+                "username": {
+                    "value": "Yohann CANU",
+                    "type": "string"
+                },
+                "submitted_at": {
+                    "value": "2020-09-04 17:13:16 +02:00",
+                    "type": "datetime"
+                },
+                "received_at": {
+                    "value": "2020-09-04 15:13:17 +00:00",
+                    "type": "datetime"
+                },
+                "submission_id": {
+                    "value": "971134",
+                    "type": "integer"
+                },
+                "device_submission_identifier": {
+                    "value": "0a97ae64-766e-4fc5-987f-de4996e254ab",
+                    "type": "string"
+                },
+                "submission_counter": {
+                    "value": "1"
+                },
+                "form_name": {
+                    "value": "pizza_questionnaire"
+                },
+                "form_namespace": {
+                    "value": "http://www.devicemagic.com/xforms/5006d7d0-d0d2-0138-8a01-0242ac120006"
+                },
+                "form_version": {
+                    "value": "1.14"
+                }
+            },
+            "submission": {
+                "likes_pizza": {
+                    "value": "yes",
+                    "type": "boolean"
+                },
+                "pizza_toppings": {
+                    "value": "sausage",
+                    "type": "select"
+                },
+                "favorite_topping": {
+                    "value": "sausage,other",
+                    "type": "select"
+                }
+            }
+        }
+    ]
+}
