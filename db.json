@@ -1,4 +1,5 @@
-{
+{ 
+  "device_magic_database": {
     "per_page": 200,
     "current_page": 1,
     "total_pages": 1,
@@ -136,4 +137,5 @@
             }
         }
     ]
+}
 }
